@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">Simulador</string>
     <string name="txt_simulate">Botão de simulação de partidas.</string>
+    <string name="imagem_do_time_da_casa">Imagem do time da casa</string>
+    <string name="imagem_do_time_desafiante">Imagem do time desafiante</string>
 </resources>
