@@ -1,4 +1,4 @@
-package br.com.painelcodeti.simulator
+package br.com.painelcodeti.simulator.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
